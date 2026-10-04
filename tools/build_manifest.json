@@ -1,0 +1,31 @@
+[
+  {
+    "compiler": "gcc",
+    "sources": [
+      "linked-list-stack/stackDemo.c",
+      "linked-list-stack/stackLinkedList.c"
+    ]
+  },
+  {
+    "compiler": "gcc",
+    "sources": [
+      "sorting-benchmarks/main.c"
+    ],
+    "flags": [
+      "-lm"
+    ]
+  },
+  {
+    "compiler": "gcc",
+    "sources": [
+      "hash-table-graph/problem1.c"
+    ]
+  },
+  {
+    "compiler": "gcc",
+    "sources": [
+      "hash-table-graph/problem2.c",
+      "hash-table-graph/tree.c"
+    ]
+  }
+]
